@@ -102,7 +102,7 @@
 			<p>333 DM - Rp 92.000</p>
 			<p>355 DM - Rp 95.000</p>
 			<p>370 DM - Rp 100.000</p>
-      <a class="whatsapp" href="https://wa.me/6285742605246?text=Format%3A%0ADiamond%3D%0APrice%3D%0AID%20%28SERVER%29%3D%0ANickname%3D%0A%0A%3E+dddaava">Top Up Sekarang</a>
+      <a class="whatsapp" href="https://wa.me/6288983331559?text=Format%3A%0ADiamond%3D%0APrice%3D%0AID%20%28SERVER%29%3D%0ANickname%3D%0A%0A%3E+Nuē">Top Up Sekarang</a>
     </div>
   </section>  <section id="ff">
     <h2>Top Up Free Fire</h2>
@@ -138,7 +138,7 @@
 			<p>720 DM - Rp 86.000</p>
 			<p>770 DM - Rp 96.000</p>
 			<p>800 DM - Rp 100.000</p>
-      <a class="whatsapp" href="https://wa.me/6285742605246?text=Format%3A%0ADiamond%3D%0APrice%3D%0AID%3D%0ANickname%3D%0A%0A%3E+dddaava">Top Up Sekarang</a>
+      <a class="whatsapp" href="https://wa.me/6288983331559?text=Format%3A%0ADiamond%3D%0APrice%3D%0AID%3D%0ANickname%3D%0A%0A%3E+Nuē">Top Up Sekarang</a>
     </div>
   </section>  <section id="akun">
     <h2>Jual akun ML</h2>
